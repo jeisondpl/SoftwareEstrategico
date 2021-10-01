@@ -9,7 +9,7 @@ https://gorest.co.in/public-api/users?_format=json&access-token=nL6p7nrqP2ivDEKY
 
 ### Instalación 🔧
 
-Descargar el proyecto en el link https://github.com/jeisondpl/SoftwareEstrategico luego entrar en la carpeta cd PruebaTecnicaJeisonDiaz por lo tando debe instalar todas las dependencias para porde correr el proyecto con:
+Descargar el proyecto en el link https://github.com/jeisondpl/SoftwareEstrategico entrar en la carpeta cd SoftwareEstrategico, luego debe instalar todas las dependencias para porde correr el proyecto con:
 
 ```
 npm install
