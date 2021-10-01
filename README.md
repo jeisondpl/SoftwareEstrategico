@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Prueba tecnica Software estrategico
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+1. Cree un componente tabla basado en clases en reactJs y realice un GET a la api “USERS” mediante un botón, que coloque el ID, Nombre, e email de la lista de resultados en dicho componente, tenga en cuenta que: todos los estados de la aplicación deben quedar en un store de redux.
 
-## Available Scripts
+URL de la API Con token Válido
+https://gorest.co.in/public-api/users?_format=json&access-token=nL6p7nrqP2ivDEKY7dtSEECsN0a7ehywZMaE
 
-In the project directory, you can run:
+2. Cree una estructura en el código que mediante el uso de un componente de orden superior permite cambiar el color de fondo al título del componente Tabla creado anteriormente.
 
-### `yarn start`
+### Instalación 🔧
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Descargar el proyecto en el link https://github.com/jeisondpl/SoftwareEstrategico luego entrar en la carpeta cd PruebaTecnicaJeisonDiaz por lo tando debe instalar todas las dependencias para porde correr el proyecto con:
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```
+npm install
+```
 
-### `yarn test`
+## Construido con 🛠️
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+_Menciona las herramientas que utilizaste para crear tu proyecto_
 
-### `yarn build`
+- axios: 0.21.4,
+- bootstrap: 5.1.1,
+- react: 17.0.2,
+- react-bootstrap: 2.0.0-rc.0,
+- react-dom: 17.0.2,
+- react-redux: 7.2.5,
+- react-router-dom: 5.3.0,
+- react-scripts: 4.0.3,
+- redux-thunk: 2.3.0,
+- sass: 1.42.1,
+- web-vitals: 1.0.1
+- La estructura del archivo Ducks para Redu
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Versionado 📌
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Usamos [GitHub](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jeisondpl/SoftwareEstrategico).
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Autores ✒️
 
-### `yarn eject`
+- **Jeison Díaz Palmera** - _Trabajo Inicial_ - [jeisondpl](https://github.com/jeisondpl)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+---
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⌨️ con ❤️ por [jeisondpl](https://github.com/jeisondpl) 😊
