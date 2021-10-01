@@ -30,7 +30,7 @@ herramientas que se utiliza para crear el proyecto
 - redux-thunk: 2.3.0,
 - sass: 1.42.1,
 - web-vitals: 1.0.1
-- La estructura del archivo Ducks para Redu
+- La estructura del archivo Ducks para Redux https://github.com/erikras/ducks-modular-redux
 
 ## Versionado 📌
 
