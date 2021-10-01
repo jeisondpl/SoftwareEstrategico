@@ -1,0 +1,14 @@
+$titleFont: Arial, Helvetica, sans-serif;
+$colorLine: '#0d335f';
+
+.button {
+  font-family: $titleFont;
+  background-image: linear-gradient(to right, red, orange, brown, green, blue, indigo, violet);
+  color: $colorLine;
+}
+
+.line {
+  color: $colorLine;
+  background-color: $colorLine;
+  height: 2;
+}
