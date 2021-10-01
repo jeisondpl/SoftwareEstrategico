@@ -34,7 +34,7 @@ _Menciona las herramientas que utilizaste para crear tu proyecto_
 
 ## Versionado 📌
 
-Usamos [GitHub](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jeisondpl/SoftwareEstrategico).
+Usamos [GitHub](https://github.com/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/jeisondpl/SoftwareEstrategico/tags).
 
 ## Autores ✒️
 
