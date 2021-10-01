@@ -17,7 +17,7 @@ npm install
 
 ## Construido con 🛠️
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+herramientas que se utiliza para crear el proyecto
 
 - axios: 0.21.4,
 - bootstrap: 5.1.1,
